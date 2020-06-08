@@ -1,0 +1,13 @@
+classifier_0,classifier_1,classifier_2,classifier_3,classifier_4,test_performance
+K-Nearest Neighbors,Decision Tree,Gaussian Naive Bayes,Linear SVM,Logistic Regression,0.34099727606540475
+K-Nearest Neighbors,Decision Tree,Gaussian Naive Bayes,Polynomial SVM,Logistic Regression,0.3230225683178311
+K-Nearest Neighbors,Decision Tree,Gaussian Naive Bayes,RBF SVM,Logistic Regression,0.3230225683178311
+K-Nearest Neighbors,Decision Tree,Gaussian Naive Bayes,Sigmoid SVM,Logistic Regression,0.3230225683178311
+K-Nearest Neighbors,Decision Tree,Bernoulli Naive Bayes,Linear SVM,Logistic Regression,0.3362895364359331
+K-Nearest Neighbors,Decision Tree,Bernoulli Naive Bayes,Polynomial SVM,Logistic Regression,0.31671099732686786
+K-Nearest Neighbors,Decision Tree,Bernoulli Naive Bayes,RBF SVM,Logistic Regression,0.31671099732686786
+K-Nearest Neighbors,Decision Tree,Bernoulli Naive Bayes,Sigmoid SVM,Logistic Regression,0.31671099732686786
+K-Nearest Neighbors,Decision Tree,Multinomial Naive Bayes,Linear SVM,Logistic Regression,0.39167900816348394
+K-Nearest Neighbors,Decision Tree,Multinomial Naive Bayes,Polynomial SVM,Logistic Regression,0.3277180293583395
+K-Nearest Neighbors,Decision Tree,Multinomial Naive Bayes,RBF SVM,Logistic Regression,0.3277180293583395
+K-Nearest Neighbors,Decision Tree,Multinomial Naive Bayes,Sigmoid SVM,Logistic Regression,0.3277180293583395

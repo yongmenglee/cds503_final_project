@@ -1,0 +1,14 @@
+classifier_0,classifier_1,classifier_2,test_performance
+K-Nearest Neighbors,Decision Tree,Linear SVM,0.3422793915020863
+K-Nearest Neighbors,Decision Tree,Polynomial SVM,0.6034335311298943
+K-Nearest Neighbors,Decision Tree,RBF SVM,0.4691988690597085
+K-Nearest Neighbors,Decision Tree,Sigmoid SVM,0.4611990948667466
+K-Nearest Neighbors,Decision Tree,Logistic Regression,0.3362895364359331
+K-Nearest Neighbors,Linear SVM,Logistic Regression,0.28886265249901616
+K-Nearest Neighbors,Polynomial SVM,Logistic Regression,0.31754915014826907
+K-Nearest Neighbors,RBF SVM,Logistic Regression,0.3046126226992385
+K-Nearest Neighbors,Sigmoid SVM,Logistic Regression,0.3046126226992385
+Decision Tree,Linear SVM,Logistic Regression,0.29630425876997646
+Decision Tree,Polynomial SVM,Logistic Regression,0.6161916407438549
+Decision Tree,RBF SVM,Logistic Regression,0.4398822965003267
+Decision Tree,Sigmoid SVM,Logistic Regression,0.4313797833593491

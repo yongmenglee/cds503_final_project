@@ -1,0 +1,7 @@
+classifier,test_performance
+Decision Tree,0.7786248020789598
+Gaussian Naive Bayes,0.08960043677404773
+Bernoulli Naive Bayes,0.6220674157303371
+Multinomial Naive Bayes,0.24100134231714287
+Logistic Regression,0.28886265249901616
+Gradient Boosting*,0.8101721092165249

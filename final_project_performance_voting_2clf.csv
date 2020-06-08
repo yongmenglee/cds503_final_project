@@ -1,0 +1,37 @@
+classifier_0,classifier_1,test_performance
+K-Nearest Neighbors,Decision Tree,0.34099727606540475
+K-Nearest Neighbors,Gaussian Naive Bayes,0.32183892836506867
+K-Nearest Neighbors,Bernoulli Naive Bayes,0.3258225028806107
+K-Nearest Neighbors,Multinomial Naive Bayes,0.32895476927862183
+K-Nearest Neighbors,Linear SVM,0.33315757793041445
+K-Nearest Neighbors,Polynomial SVM,0.2890112772095463
+K-Nearest Neighbors,RBF SVM,0.2890112772095463
+K-Nearest Neighbors,Sigmoid SVM,0.2890112772095463
+K-Nearest Neighbors,Logistic Regression,0.2890112772095463
+Decision Tree,Gaussian Naive Bayes,0.5515670269094927
+Decision Tree,Bernoulli Naive Bayes,0.598467225036807
+Decision Tree,Multinomial Naive Bayes,0.6259879444047435
+Decision Tree,Linear SVM,0.7672817820871097
+Decision Tree,Polynomial SVM,0.2926337883275682
+Decision Tree,RBF SVM,0.2890112772095463
+Decision Tree,Sigmoid SVM,0.2890112772095463
+Decision Tree,Logistic Regression,0.2890112772095463
+Gaussian Naive Bayes,Linear SVM,0.20620255653883976
+Gaussian Naive Bayes,Polynomial SVM,0.2926337883275682
+Gaussian Naive Bayes,RBF SVM,0.2890112772095463
+Gaussian Naive Bayes,Sigmoid SVM,0.2890112772095463
+Gaussian Naive Bayes,Logistic Regression,0.2890112772095463
+Bernoulli Naive Bayes,Linear SVM,0.5438913437049311
+Bernoulli Naive Bayes,Polynomial SVM,0.2926337883275682
+Bernoulli Naive Bayes,RBF SVM,0.2890112772095463
+Bernoulli Naive Bayes,Sigmoid SVM,0.2890112772095463
+Bernoulli Naive Bayes,Logistic Regression,0.2890112772095463
+Multinomial Naive Bayes,Linear SVM,0.3357977336278591
+Multinomial Naive Bayes,Polynomial SVM,0.2924851498825805
+Multinomial Naive Bayes,RBF SVM,0.2890112772095463
+Multinomial Naive Bayes,Sigmoid SVM,0.2890112772095463
+Multinomial Naive Bayes,Logistic Regression,0.2890112772095463
+Linear SVM,Logistic Regression,0.2890112772095463
+Polynomial SVM,Logistic Regression,0.2890112772095463
+RBF SVM,Logistic Regression,0.2890112772095463
+Sigmoid SVM,Logistic Regression,0.2890112772095463
